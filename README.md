@@ -1,0 +1,2 @@
+# GameDB-SG1000
+Sega SG-1000
